@@ -1,3 +1,4 @@
 employee name=kishor sawant
 id=102
-salary=30000
+salary=10000
+
